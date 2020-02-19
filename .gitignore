@@ -1,6 +1,12 @@
 # C++源代码
 ipch/
 Release/
+.idea/
+build/
+dist/
+temp/
+venv/
+vnpy.egg-info
 
 *.sdf
 *.suo
